@@ -1,0 +1,5 @@
+twisted>=22.10.0
+scapy>=2.5.0
+matplotlib>=3.5.0
+dash>=2.7.0
+geoip2>=4.6.0
